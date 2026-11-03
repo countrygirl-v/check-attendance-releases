@@ -43,6 +43,9 @@
    - **Chrome**: '안전하지 않은 파일' → **유지**
 4. 다운로드한 파일을 더블클릭합니다.
 5. 파란색 **'Windows의 PC 보호'** 창이 뜨면 **추가 정보** → **실행** 을 누릅니다.
+<img width="548" height="519" alt="image" src="https://github.com/user-attachments/assets/8c05763d-d80f-4d86-b52e-1e0cf7b25777" />
+<img width="553" height="521" alt="image" src="https://github.com/user-attachments/assets/4c03abe9-22cc-415d-82e9-49e07916b28c" />
+
 6. 설치 화면에서
    1. **바탕 화면에 바로 가기 만들기** 가 체크된 상태로 **설치** 를 누릅니다.
    2. 설치가 끝나면 **세이코어 근태관리 실행** 이 체크된 상태로 **마침** 을 누릅니다.
